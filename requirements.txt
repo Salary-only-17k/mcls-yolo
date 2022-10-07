@@ -1,0 +1,19 @@
+pathlib
+prefetch_generator
+
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.1
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.8.0 or 1.9.1
+torchvision>=0.9.1
+tqdm>=4.64.0
+tensorboard>=2.4.1
+onnx>=1.9.0  # ONNX export
+onnxruntime
+onnx-simplifier>=0.4.1  # ONNX simplifier
+scikit-learn==0.19.2  # CoreML quantization
+psutil
